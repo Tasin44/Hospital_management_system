@@ -1,0 +1,17 @@
+asgiref
+Django
+django-cors-headers 
+djangorestframework
+djangorestframework-simplejwt 
+PyJWT
+pytz
+sqlparse
+psycopg2-binary
+python-dotenv
+python -m pip install Pillow
+pip install reportlab
+# npm install react-router-dom
+npm install axios
+npm install @heroicons/react
+npm install react-router-dom axios jwt-decode
+npm install date-fns
