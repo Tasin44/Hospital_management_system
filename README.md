@@ -27,8 +27,10 @@ Follow these steps to set up the project on your local machine.
 + A SQL database (e.g., SQLite, PostgreSQL)
 + Git
 
-
-
+## Run
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/yourproject.git
 
 
 
