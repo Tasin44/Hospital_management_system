@@ -96,6 +96,9 @@ Open your browser and go to: http://localhost:5173/signup
 ![image](https://github.com/user-attachments/assets/78290747-cdff-4271-ada5-f517b43ada16)
 
 ### Doctor's Prescriptions 
+
+![image](https://github.com/user-attachments/assets/ab586063-9082-48a5-9d90-b56ab097be3e)
+
 ![Screenshot (41)](https://github.com/user-attachments/assets/0147bc39-de79-4d62-8321-7a3606722960)
 
 ### Doctor's Assigned Patients
