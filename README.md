@@ -82,20 +82,20 @@ Open your browser and go to: http://localhost:5173/signup
 ### Signup
 ![Screenshot (31)](https://github.com/user-attachments/assets/fe9746f0-40f8-4f68-ab52-b6cc95e0f6c3)
 
-### Login for Doctor
+### Login 
+![Screenshot (32)](https://github.com/user-attachments/assets/d190a6dd-b23a-4826-9e57-173c618c8ff5)
 
+### Doctor's Dashboard
+![Screenshot (38)](https://github.com/user-attachments/assets/e886b464-469a-465f-be2f-a8f4b864a886)
 
+### Doctor's Profile 
+![Screenshot (39)](https://github.com/user-attachments/assets/be2ab555-79b7-4d88-b67c-c79a63cd1d7f)
 
+### Doctor's Appoinments 
+![Screenshot (40)](https://github.com/user-attachments/assets/3445e4b1-3719-4a1b-bfc2-f1d12dbd6ce3)
 
+### Doctor's Prescriptions 
+![Screenshot (41)](https://github.com/user-attachments/assets/0147bc39-de79-4d62-8321-7a3606722960)
 
-
-
-
-
-
-
-
-
-
-
-
+### Doctor's Assigned Patient
+![Screenshot (42)](https://github.com/user-attachments/assets/57795ef7-b9dc-4cb6-9689-1d4f8523f3d6)
