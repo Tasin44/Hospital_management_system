@@ -28,7 +28,7 @@ Follow these steps to set up the project on your local machine.
 + Git
 
 ## Run
-1. Clone the repository:
+1.Clone the repository:
 ```bash
 git clone https://github.com/Tasin44/Hospital_management_system.git
 ```
@@ -37,11 +37,11 @@ git clone https://github.com/Tasin44/Hospital_management_system.git
 python -m venv venv
 source venv/bin/activate # (terminal)  # On Windows use `venv\Scripts\activate`
 ```
-3. Install the required packages:
+3.Install the required packages:
 ```bash
 pip install -r requirements.txt
 ```
-4. To set up built-in db.sqlite3, configure the database settings in settings.py:
+4.To set up built-in db.sqlite3, configure the database settings in settings.py:
 ```bash
 DATABASES = {
     'default': {
@@ -60,12 +60,13 @@ python manage.py runserver
 ```
 7.Access the application: Open your web browser and navigate to http://127.0.0.1:8000/.
 
-## Frontend Setup (React)
-8. Open a new terminal and navigate to the frontend directory:
+## Frontend Setup (React):
+
+8.Open a new terminal and navigate to the frontend directory:
 ```bash
 cd frontend
 ```
-9. Install frontend dependencies:
+9.Install frontend dependencies:
 ```bash
 npm install
 ```
@@ -73,5 +74,5 @@ npm install
 ```bash
 npm run dev
 ```
-11. Access the frontend:
+11.Access the frontend:
 Open your browser and go to: http://localhost:5173/signup
