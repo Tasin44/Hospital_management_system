@@ -18,3 +18,24 @@ This project is a Hospital Management System , implemented using Django Rest Fra
 + Backend : Python , Django Rest Framework
 + Database: PostgreSQL
 
+### Setup Instructions to Run
+Follow these steps to set up the project on your local machine.
+
+#### Prerequisites (Install)
++ Python 3.x
++ Django 3.x
++ A SQL database (e.g., SQLite, PostgreSQL)
++ Git
+
+
+
+
+
+
+
+
+
+
+
+
+
