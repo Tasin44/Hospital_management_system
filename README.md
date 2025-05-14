@@ -107,6 +107,8 @@ Open your browser and go to: http://localhost:5173/signup
 ![Screenshot (43)](https://github.com/user-attachments/assets/3111a0bd-27c7-4ae4-845e-95a4a935d908)
 
 ### Patient's Profile 
+![unnamed](https://github.com/user-attachments/assets/eeb47065-9d70-4aea-a2ea-1d6cd3abb79d)
+
 ![Screenshot (44)](https://github.com/user-attachments/assets/dc5bca00-2d89-4d7b-b5a6-a9d253f6769c)
 
 ### Patient's Discharge Details 
