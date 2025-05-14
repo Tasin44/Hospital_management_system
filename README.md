@@ -90,7 +90,7 @@ Open your browser and go to: http://localhost:5173/signup
 ![image](https://github.com/user-attachments/assets/2f0239d4-1df8-4c00-995a-db6e2bfcfca7)
 
 ### Doctor's Profile 
-![Screenshot (39)](https://github.com/user-attachments/assets/be2ab555-79b7-4d88-b67c-c79a63cd1d7f)
+![image](https://github.com/user-attachments/assets/213b89ed-d88c-4dcb-9445-96eb9988c6ba)
 
 ### Doctor's Appoinments 
 ![Screenshot (40)](https://github.com/user-attachments/assets/3445e4b1-3719-4a1b-bfc2-f1d12dbd6ce3)
