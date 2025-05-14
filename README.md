@@ -80,7 +80,7 @@ Open your browser and go to: http://localhost:5173/signup
 
 ## Project Flow and Frontend View:
 ### Signup
-![Screenshot (31)](https://github.com/user-attachments/assets/fe9746f0-40f8-4f68-ab52-b6cc95e0f6c3)
+![image](https://github.com/user-attachments/assets/4a54534f-ace9-471e-b895-f0c20389a76a)
 
 ### Login 
 ![Screenshot (32)](https://github.com/user-attachments/assets/d190a6dd-b23a-4826-9e57-173c618c8ff5)
