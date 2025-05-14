@@ -8,9 +8,9 @@ This project is a Hospital Management System , implemented using Django Rest Fra
 + Email Verification: Ensures users are authenticated through email verification.
 + Personalized Profiles: Patients and Doctor can view their own profiles, info and updates.
 + Administrative Updates: Admin can update Patient and Doctor information , Bed allocation, Emergency handling, Creating invoice , Discharge details .
-+Roles:
-o Admin: Manages the entire system.
-o Doctor: Manages patients, appointments, and prescriptions.
-o Patient: Books appointments, views medical history, and manages personaldetails.
++ Roles:
+  + Admin: Manages the entire system.
+  + Doctor: Manages patients, appointments, and prescriptions.
+  + Patient: Books appointments, views medical history, and manages personal details.
 
 
