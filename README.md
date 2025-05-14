@@ -76,3 +76,10 @@ npm run dev
 ```
 11.Access the frontend:
 Open your browser and go to: http://localhost:5173/signup
+
+
+## Project Flow and Frontend View:
+### About section
+![Screenshot (31)](https://github.com/user-attachments/assets/fe9746f0-40f8-4f68-ab52-b6cc95e0f6c3)
+
+
