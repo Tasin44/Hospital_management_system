@@ -41,28 +41,37 @@ source venv/bin/activate # (terminal)  # On Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
-4.Apply migrations:
+4. To set up built-in db.sqlite3, configure the database settings in settings.py:
+```bash
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
+    }
+}
+```
+5.Apply migrations:
 ```bash
 python manage.py migrate
 ```
-5.Run the development server:
+6.Run the development server:
 ```bash
 python manage.py runserver
 ```
-6.Access the application: Open your web browser and navigate to http://127.0.0.1:8000/.
+7.Access the application: Open your web browser and navigate to http://127.0.0.1:8000/.
 
 ## Frontend Setup (React)
-7. Open a new terminal and navigate to the frontend directory:
+8. Open a new terminal and navigate to the frontend directory:
 ```bash
 cd frontend
 ```
-8. Install frontend dependencies:
+9. Install frontend dependencies:
 ```bash
 npm install
 ```
-9.Start the React development server:
+10.Start the React development server:
 ```bash
 npm run dev
 ```
-10. Access the frontend:
+11. Access the frontend:
 Open your browser and go to: http://localhost:5173/signup
