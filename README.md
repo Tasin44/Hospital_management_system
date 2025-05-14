@@ -13,4 +13,8 @@ This project is a Hospital Management System , implemented using Django Rest Fra
   + Doctor: Manages patients, appointments, and prescriptions.
   + Patient: Books appointments, views medical history, and manages personal details.
 
+### Tools and Technologies:
++ Frontend: HTML, Tailwind CSS, React JS
++ Backend : Python , Django Rest Framework
++ Database: PostgreSQL
 
