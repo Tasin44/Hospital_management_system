@@ -96,17 +96,17 @@ Open your browser and go to: http://localhost:5173/signup
 ![image](https://github.com/user-attachments/assets/78290747-cdff-4271-ada5-f517b43ada16)
 
 ### Doctor's Prescriptions 
-
 ![image](https://github.com/user-attachments/assets/ab586063-9082-48a5-9d90-b56ab097be3e)
 
 
 ### Doctor's Assigned Patients
-![Screenshot (42)](https://github.com/user-attachments/assets/57795ef7-b9dc-4cb6-9689-1d4f8523f3d6)
+![image](https://github.com/user-attachments/assets/60cf016e-311f-4c41-b59b-54e5ab91cd5d)
+
 
 ## Patient 
 
 ### Patient's Dashboard
-![Screenshot (43)](https://github.com/user-attachments/assets/3111a0bd-27c7-4ae4-845e-95a4a935d908)
+![image](https://github.com/user-attachments/assets/26acefb8-6d67-4d97-8593-bb25c4ced786)
 
 
 ### Patient's Profile 
@@ -114,13 +114,12 @@ Open your browser and go to: http://localhost:5173/signup
 
 
 ### Patient's Discharge Details 
-![Screenshot (45)](https://github.com/user-attachments/assets/a62ba928-dd1d-472b-a4de-b3d7bcfe7538)
+![image](https://github.com/user-attachments/assets/a04a35c9-45ed-43de-bd7e-827e3468a661)
+
 
 ### Invoices
-![Screenshot (46)](https://github.com/user-attachments/assets/37e61f04-c7a8-4134-b430-69f7a818eb6b)
-
-![image](https://github.com/user-attachments/assets/4f68f46c-da1f-4c33-b05a-002d8ee7dded)
+![image](https://github.com/user-attachments/assets/6a85a1bb-f7cd-4b38-80ff-b1eec7e9ff7a)
 
 
 ### Search Doctor
-![Screenshot (47)](https://github.com/user-attachments/assets/add70a17-c5e1-43fa-8b86-9714451d96f1)
+![image](https://github.com/user-attachments/assets/fb3ff3a1-5808-4b2f-8d88-90c54f329a4c)
