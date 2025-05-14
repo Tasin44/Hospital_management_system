@@ -99,7 +99,6 @@ Open your browser and go to: http://localhost:5173/signup
 
 ![image](https://github.com/user-attachments/assets/ab586063-9082-48a5-9d90-b56ab097be3e)
 
-![Screenshot (41)](https://github.com/user-attachments/assets/0147bc39-de79-4d62-8321-7a3606722960)
 
 ### Doctor's Assigned Patients
 ![Screenshot (42)](https://github.com/user-attachments/assets/57795ef7-b9dc-4cb6-9689-1d4f8523f3d6)
@@ -108,6 +107,7 @@ Open your browser and go to: http://localhost:5173/signup
 
 ### Patient's Dashboard
 ![Screenshot (43)](https://github.com/user-attachments/assets/3111a0bd-27c7-4ae4-845e-95a4a935d908)
+
 
 ### Patient's Profile 
 ![unnamed](https://github.com/user-attachments/assets/eeb47065-9d70-4aea-a2ea-1d6cd3abb79d)
