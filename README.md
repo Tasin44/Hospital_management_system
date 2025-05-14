@@ -85,6 +85,7 @@ Open your browser and go to: http://localhost:5173/signup
 ### Login 
 ![Screenshot (32)](https://github.com/user-attachments/assets/d190a6dd-b23a-4826-9e57-173c618c8ff5)
 
+## Doctor
 ### Doctor's Dashboard
 ![Screenshot (38)](https://github.com/user-attachments/assets/e886b464-469a-465f-be2f-a8f4b864a886)
 
@@ -100,17 +101,19 @@ Open your browser and go to: http://localhost:5173/signup
 ### Doctor's Assigned Patients
 ![Screenshot (42)](https://github.com/user-attachments/assets/57795ef7-b9dc-4cb6-9689-1d4f8523f3d6)
 
-## Patient's Dashboard
+## Patient 
+
+### Patient's Dashboard
 ![Screenshot (43)](https://github.com/user-attachments/assets/3111a0bd-27c7-4ae4-845e-95a4a935d908)
 
-## Patient's Profile 
+### Patient's Profile 
 ![Screenshot (44)](https://github.com/user-attachments/assets/dc5bca00-2d89-4d7b-b5a6-a9d253f6769c)
 
-## Patient's Discharge Details 
+### Patient's Discharge Details 
 ![Screenshot (45)](https://github.com/user-attachments/assets/a62ba928-dd1d-472b-a4de-b3d7bcfe7538)
 
-## Invoices
-![unnamed](https://github.com/user-attachments/assets/eab0de4b-caba-40b9-a789-c5ca266790c3)
+### Invoices
+![Screenshot (46)](https://github.com/user-attachments/assets/37e61f04-c7a8-4134-b430-69f7a818eb6b)
 
-## Search Doctor
+### Search Doctor
 ![Screenshot (47)](https://github.com/user-attachments/assets/add70a17-c5e1-43fa-8b86-9714451d96f1)
