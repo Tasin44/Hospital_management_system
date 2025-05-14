@@ -29,8 +29,7 @@ Follow these steps to set up the project on your local machine.
 
 ## Run
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/yourproject.git
+```bash git clone https://github.com/yourusername/yourproject.git
 
 
 
