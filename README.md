@@ -8,4 +8,7 @@ Features:
     *Email Verification: Ensures users are authenticated through email verification.
     *Personalized Profiles: Patients and Doctor can view their own profiles, info and updates.
     *Administrative Updates: Admins can update Patient and Doctor information ,Bed allocation, Emergency handling, Creting invoice , Discharge details .
-  
++ First item
++ Second item
++ Third item
+
