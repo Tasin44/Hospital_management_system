@@ -30,4 +30,39 @@ Follow these steps to set up the project on your local machine.
 ## Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Tasin44/Hospital_management_system.git
+```
+2.Create and activate a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate # (terminal)  # On Windows use `venv\Scripts\activate`
+```
+3. Install the required packages:
+```bash
+pip install -r requirements.txt
+```
+4.Apply migrations:
+```bash
+python manage.py migrate
+```
+5.Run the development server:
+```bash
+python manage.py runserver
+```
+6.Access the application: Open your web browser and navigate to http://127.0.0.1:8000/.
+
+## Frontend Setup (React)
+7. Open a new terminal and navigate to the frontend directory:
+```bash
+cd frontend
+```
+8. Install frontend dependencies:
+```bash
+npm install
+```
+9.Start the React development server:
+```bash
+npm run dev
+```
+10. Access the frontend:
+Open your browser and go to: http://localhost:5173/signup
