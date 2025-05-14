@@ -83,7 +83,7 @@ Open your browser and go to: http://localhost:5173/signup
 ![image](https://github.com/user-attachments/assets/4a54534f-ace9-471e-b895-f0c20389a76a)
 
 ### Login 
-![Screenshot (32)](https://github.com/user-attachments/assets/d190a6dd-b23a-4826-9e57-173c618c8ff5)
+![image](https://github.com/user-attachments/assets/9092490d-ef6d-40b2-80c1-d52e71190680)
 
 ## Doctor
 ### Doctor's Dashboard
