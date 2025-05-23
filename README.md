@@ -1,8 +1,8 @@
 # Hospital Management System
-## About the Project
+## 📖 About
 This project is a Hospital Management System , implemented using Django Rest Framework, React Js , Postgres . It provides a multi-user platform with three user types: admin, doctor, and patient. Each user has role-based access control, with robust authentication, email verification and personalized profiles.Implemented modules for appointment scheduling, patient management, billing, bed allocation , emergency management . 
 
-### Features:
+## ✨ Features:
 + Multi-user Platform: Admin, Doctor & Patient roles with specific permissions.
 + Role-based Access Control: Different functionalities available based on user roles.
 + Email Verification: Ensures users are authenticated through email verification.
@@ -13,21 +13,21 @@ This project is a Hospital Management System , implemented using Django Rest Fra
   + Doctor: Manages patients, appointments, and prescriptions.
   + Patient: Books appointments, views medical history, and manages personal details.
 
-### Tools and Technologies:
+## 🛠️ Tools and Technologies:
 + Frontend: HTML, Tailwind CSS, React JS
 + Backend : Python , Django Rest Framework
 + Database: PostgreSQL
 
-### Setup Instructions to Run
+## 📋Setup Instructions to Run
 Follow these steps to set up the project on your local machine.
 
-#### Prerequisites (Install)
+Prerequisites (Install)
 + Python 3.x
 + Django 3.x
 + A SQL database (e.g., SQLite, PostgreSQL)
 + Git
 
-## Run
+## 🚀 Run:
 1.Clone the repository:
 ```bash
 git clone https://github.com/Tasin44/Hospital_management_system.git
@@ -54,7 +54,24 @@ DATABASES = {
     }
 }
 ```
-5.Apply migrations:
+5. 🔧 Email Configuration:
+
+Update your settings.py for email functionality:
+```
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_HOST_USER = 'your_email@gmail.com'
+EMAIL_HOST_PASSWORD = 'your_app_password'
+DEFAULT_FROM_EMAIL = 'your_email@gmail.com'
+```
+6. Media Files Configuration:
+```
+MEDIA_URL = '/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+```
+7.Apply migrations:
 ```bash
 python manage.py migrate
 ```
@@ -67,6 +84,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 8.Access the application: Open your web browser and navigate to http://127.0.0.1:8000/.
+
 
 ## Frontend Setup (React):
 
@@ -131,3 +149,11 @@ Open your browser and go to: http://localhost:5173/signup
 
 ### Search Doctor
 ![image](https://github.com/user-attachments/assets/fb3ff3a1-5808-4b2f-8d88-90c54f329a4c)
+
+## 🤝 Contributing:
+
+* Fork the repository
+* Create a feature branch (git checkout -b feature/AmazingFeature)
+* Commit your changes (git commit -m 'Add some AmazingFeature')
+* Push to the branch (git push origin feature/AmazingFeature)
+* Open a Pull Request
