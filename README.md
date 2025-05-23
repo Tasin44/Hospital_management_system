@@ -41,18 +41,26 @@ source venv/bin/activate # (terminal)  # On Windows use `venv\Scripts\activate`
 ```bash
 pip install -r requirements.txt
 ```
-4.To set up built-in db.sqlite3, configure the database settings in settings.py:
+4.Database Setup Create a PostgreSQL database and update your settings.py:
 ```bash
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'your_db_name',
+        'USER': 'your_db_user',
+        'PASSWORD': 'your_db_password',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 ```
 5.Apply migrations:
 ```bash
 python manage.py migrate
+```
+### 6. Create a superuser:
+```
+python manage.py createsuperuser
 ```
 6.Run the development server:
 ```bash
