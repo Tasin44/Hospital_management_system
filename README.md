@@ -58,31 +58,31 @@ DATABASES = {
 ```bash
 python manage.py migrate
 ```
-### 6. Create a superuser:
+6. Create a superuser:
 ```
 python manage.py createsuperuser
 ```
-6.Run the development server:
+7.Run the development server:
 ```bash
 python manage.py runserver
 ```
-7.Access the application: Open your web browser and navigate to http://127.0.0.1:8000/.
+8.Access the application: Open your web browser and navigate to http://127.0.0.1:8000/.
 
 ## Frontend Setup (React):
 
-8.Open a new terminal and navigate to the frontend directory:
+9.Open a new terminal and navigate to the frontend directory:
 ```bash
 cd frontend
 ```
-9.Install frontend dependencies:
+10.Install frontend dependencies:
 ```bash
 npm install
 ```
-10.Start the React development server:
+11.Start the React development server:
 ```bash
 npm run dev
 ```
-11.Access the frontend:
+12.Access the frontend:
 Open your browser and go to: http://localhost:5173/signup
 
 
